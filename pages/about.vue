@@ -15,10 +15,10 @@
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+           If you enjoy writing, or feel like giving it a go, you will be welcomed with great
+encouragement by like-minded people
+There will also be inspiration in the form of occasional guest novelists, poets, song writers
+and journalists.
           </p>
 
           <h3>Another Fake Heading</h3>
