@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Vale of Belvoir Writing Group',
-  tagline: 'Helping you find your voice as a writer',
+  tagline: 'Helping you find your own voice as a writer',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
