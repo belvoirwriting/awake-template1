@@ -2,18 +2,14 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Us"
-      subtitle="Example About Page"
+      subtitle="Helping you find your own voice as a writer"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
-          <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
-          </p>
+          
+         
           <p>
            If you enjoy writing, or feel like giving it a go, you will be welcomed with great
 encouragement by like-minded people
@@ -21,25 +17,12 @@ There will also be inspiration in the form of occasional guest novelists, poets,
 and journalists.
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>Inspiring meetings</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+         We meet on the second Tuesday of every month at St. Mary's Church in Bottesford, but have been using Google Meet during the current restrictions. There's an optional theme or prompt for each meeting to help kick start your next piece.
           </p>
           <quote-card />
-          <h3>Still More Fake Content</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
-          </p>
+       
         </div>
 
         <div class="tile is-ancestor">
