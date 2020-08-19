@@ -12,7 +12,7 @@ export default {
   siteName: 'Vale of Belvoir Writing Group',
   tagline: 'Helping you find your own voice as a writer',
   featureImage: '/uploads/meeting.jpeg',
-  logo: '/uploads/vbw-logo.svg', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/uploads/vbw-logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
