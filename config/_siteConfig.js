@@ -50,14 +50,14 @@ export default {
 
   // Disqus
   disqus: {
-    on: true,
+    on: false,
     loadingStrategy: 'button', // Options: onload, lazy, button
     siteShortName: 'Belvoir Writing' // 'Belvoir Writing'
   },
 
   // Newsletter Subscribe
    newsletter: {
-     on: true,
+     on: false,
      heading: 'Subscribe to Our Newsletter',
      btnText: 'Subscribe',
      // Can be the form action on a mail chimp form, a hubspot form,
@@ -67,7 +67,7 @@ export default {
        formAction:
          'https://bbc.co.uk'
      },
-     custom: {
+     other: {
        on: false,
        formAction: ''
      }
