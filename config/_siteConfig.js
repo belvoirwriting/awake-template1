@@ -14,7 +14,7 @@ export default {
   featureImage: '/uploads/meeting.jpeg',
   logo: '/uploads/vbw6.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
-    on: true,
+    on: false,
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
