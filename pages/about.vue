@@ -24,25 +24,24 @@ and journalists.
           <h3>Variations on a theme</h3><p>
           We’ve had fun playing with the different themes, diverging from them in different ways or discarding them altogether to present works in progress. We've shared a variety of stories, poems, memoirs, novel chapters, blog posts and more. 
 </p>
-Our previous themes have included:
-Tale with a twist ending
-Beneath the surface
-An unexpected detour
-Your future self
-A step too far
-Spotlight on a character
-The gift
+Our previous themes have included:<br>
+Tale with a twist ending<br>
+Beneath the surface<br>
+An unexpected detour<br>
+Your future self<br>
+A step too far<br>
+Spotlight on a character<br>
+The gift<br>
 
 <p>
 How you respond to the month’s theme is up to you, because, most of all, the group is about enjoying and encouraging writing.
 </p>
 <h3>Writers from across the Vale of Belvoir</h3><p>
-Most of our writers live in or near the Vale of Belvoir, in villages such as Bottesford, Redmile, Barkestone, but distance has been no object under lockdown. We’ve switched to video meetings and settled on Google Meet after considering Zoom, Skype and others for our calls, allowing everyone to join in, wherever they are.
+Most of our writers live in or near the Vale of Belvoir, but distance has been no object under lockdown. We’ve switched to video meetings and settled on Google Meet after considering Zoom, Skype and others for our calls, allowing everyone to join in, wherever they are.
 </p>
 We will look at returning to meet in person as restrictions are lifted further and when it becomes safer to do so.
 
-          <quote-card />
-       
+              
         </div>
 
      
@@ -57,14 +56,3 @@ We will look at returning to meet in person as restrictions are lifted further a
     </main-section>
   </div>
 </template>
-<script>
-import QuoteCard from '~/components/cards/QuoteCard'
-export default {
-  head() {
-    return {
-      title: `About | ${this.$siteConfig.siteName}`
-    }
-  },
-  components: { QuoteCard }
-}
-</script>
