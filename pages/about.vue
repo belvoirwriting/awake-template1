@@ -24,8 +24,8 @@ and journalists.
           <h3>Variations on a theme</h3><p>
           We’ve had fun playing with the different themes, diverging from them in different ways or discarding them altogether to present works in progress. We've shared a variety of stories, poems, memoirs, novel chapters, blog posts and more. 
 </p>
+<p>Our previous themes have included:</p>
 <ul>
-Our previous themes have included:
 <li>Tale with a twist ending</li>
 <li>Beneath the surface</li>
 <li>An unexpected detour</li>
