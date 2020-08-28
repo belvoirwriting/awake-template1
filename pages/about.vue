@@ -21,51 +21,31 @@ and journalists.
           <p>
          We meet on the second Tuesday of every month at St. Mary's Church in Bottesford, but have been using Google Meet during the current restrictions. There's an optional theme or prompt for each meeting to help kick start your next piece.
           </p>
+          <h3>Variations on a theme</h3><p>
+          We’ve had fun playing with the different themes, diverging from them in different ways or discarding them altogether to present works in progress. We've shared a variety of stories, poems, memoirs, novel chapters, blog posts and more. 
+</p>
+Our previous themes have included:
+Tale with a twist ending
+Beneath the surface
+An unexpected detour
+Your future self
+A step too far
+Spotlight on a character
+The gift
+
+<p>
+How you respond to the month’s theme is up to you, because, most of all, the group is about enjoying and encouraging writing.
+</p>
+<h3>Writers from across the Vale of Belvoir</h3><p>
+Most of our writers live in or near the Vale of Belvoir, in villages such as Bottesford, Redmile, Barkestone, but distance has been no object under lockdown. We’ve switched to video meetings and settled on Google Meet after considering Zoom, Skype and others for our calls, allowing everyone to join in, wherever they are.
+</p>
+We will look at returning to meet in person as restrictions are lifted further and when it becomes safer to do so.
+
           <quote-card />
        
         </div>
 
-        <div class="tile is-ancestor">
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Cool Stuff We Do
-              </p>
-              <p class="subtitle">
-                Sooo Cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Other Cool Things
-              </p>
-              <p class="subtitle">
-                Just as cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                All the cool
-              </p>
-              <p class="subtitle">
-                that is all
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-        </div>
+     
       </template>
 
       <template v-slot:sidebar>
