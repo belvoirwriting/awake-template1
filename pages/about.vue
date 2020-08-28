@@ -24,23 +24,26 @@ and journalists.
           <h3>Variations on a theme</h3><p>
           We’ve had fun playing with the different themes, diverging from them in different ways or discarding them altogether to present works in progress. We've shared a variety of stories, poems, memoirs, novel chapters, blog posts and more. 
 </p>
-Our previous themes have included:<br>
-Tale with a twist ending<br>
-Beneath the surface<br>
-An unexpected detour<br>
-Your future self<br>
-A step too far<br>
-Spotlight on a character<br>
-The gift<br>
-
+<ul>
+Our previous themes have included:
+<li>Tale with a twist ending</li>
+<li>Beneath the surface</li>
+<li>An unexpected detour</li>
+<li>Your future self</li>
+<li>A step too far</li>
+<li>Spotlight on a character</li>
+<li>The gift</li>
+</ul>
+<p>
+</p>
 <p>
 How you respond to the month’s theme is up to you, because, most of all, the group is about enjoying and encouraging writing.
 </p>
 <h3>Writers from across the Vale of Belvoir</h3><p>
 Most of our writers live in or near the Vale of Belvoir, but distance has been no object under lockdown. We’ve switched to video meetings and settled on Google Meet after considering Zoom, Skype and others for our calls, allowing everyone to join in, wherever they are.
+</p><p>
+We look forward to meeting again in person as restrictions are lifted further and when it becomes safer to do so.
 </p>
-We will look at returning to meet in person as restrictions are lifted further and when it becomes safer to do so.
-
               
         </div>
 
