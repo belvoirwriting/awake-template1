@@ -2,7 +2,7 @@
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Contact Us"
-      subtitle="Example Contact Page"
+      subtitle="if you can find us"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -14,7 +14,7 @@
                 Hello!
               </p>
               <p class="subtitle">
-                What can I do for you?
+                This person was in the template. She's not a member of the group, not yet anyway.
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
