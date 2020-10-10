@@ -18,7 +18,7 @@ sections:
 upload_dir: asset/uploads
 public_path: assets/uploads
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   install_dependencies_command: npm install
