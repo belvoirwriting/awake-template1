@@ -12,3 +12,5 @@ Perhaps think about some of these questions: What’s happening? Who are these p
 The suggested writing theme is entirely optional. Bring along whatever you’re working on or just join in to hear what others have written.
 
 We’ll meet at 8pm on Tuesday 8 September 2020 via Google Meet.
+---
+Image:"/uploads/street-scene-sept20.jpeg"
