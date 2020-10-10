@@ -12,8 +12,7 @@
          
           <p>
            If you enjoy writing, or feel like giving it a go, you will be welcomed with great
-encouragement by like-minded people
-There will also be inspiration in the form of occasional guest novelists, poets, song writers
+encouragement by like-minded people. There will also be inspiration in the form of occasional guest novelists, poets, song writers
 and journalists.
           </p>
 
@@ -40,7 +39,7 @@ and journalists.
 How you respond to the month’s theme is up to you, because, most of all, the group is about enjoying and encouraging writing.
 </p>
 <h3>Writers from across the Vale of Belvoir</h3><p>
-Most of our writers live in or near the Vale of Belvoir, but distance has been no object under lockdown. We’ve switched to video meetings and settled on Google Meet after considering Zoom, Skype and others for our calls, allowing everyone to join in, wherever they are.
+Most of our writers live in or near the Vale of Belvoir, but distance has been no object under lockdown. We’ve switched to meeting online, allowing everyone to join in, wherever they are.
 </p><p>
 We look forward to meeting again in person as restrictions are lifted further and when it becomes safer to do so.
 </p>
