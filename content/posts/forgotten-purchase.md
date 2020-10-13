@@ -1,10 +1,9 @@
 ---
 title: Forgotten purchase
 subtitle: November 2020 theme
-category:Inspiration
-- ''
+category: [Inspiration]
 author: Vale of Belvoir Writing Group
-date: 2020-10-12T23:00:00Z
+date: 2020-10-13T23:00:00Z
 featureImage: '/uploads/packages_by_marc_falardeau.jpg'
 
 ---
