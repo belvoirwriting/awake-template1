@@ -21,4 +21,5 @@ fields:
   name: featureImage
   label: featureImage
 pages:
+- content/posts/forgotten-purchase.md
 - content/posts/lost-and-found.md
