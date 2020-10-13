@@ -1,11 +1,11 @@
 ---
 title: Forgotten purchase
 subtitle: November 2020 theme
-category:
+category:Inspiration
 - ''
 author: Vale of Belvoir Writing Group
 date: 2020-10-12T23:00:00Z
-featureImage: ''
+featureImage: '/uploads/packages_by_marc_falardeau.jpg'
 
 ---
 Hurry! This offer ends in five minutes! Our theme for November is 'forgotten purchase'. Join us on 10 November 2020 at 8pm via Google Meet to share tales of your own forgotten purchases or whatever else you'd like to write. 
