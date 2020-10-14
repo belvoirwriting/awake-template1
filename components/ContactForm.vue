@@ -1,5 +1,5 @@
 <template>
-  <form name="ContactForm" method="post">
+  <form name="ContactForm" action="/form/success" method="post">
   <input type="hidden" name="ContactForm" value="ContactForm" />
     <!-- Name -->
     <div class="field">
