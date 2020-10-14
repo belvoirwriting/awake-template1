@@ -1,5 +1,6 @@
 <template>
-  <form>
+  <form name="ContactForm" method="post">
+  <input type="hidden" name="ContactForm" value="ContactForm" />
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
@@ -55,3 +56,4 @@
       </button>
     </div>
   </form>
+</template>
