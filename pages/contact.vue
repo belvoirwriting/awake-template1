@@ -18,9 +18,9 @@
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
-                  :src="require('~/assets/uploads/meeting.jpg').src"
+                  :src="require('~/assets/uploads/meeting.jpeg').src"
                   :srcset="
-                    require('~/assets/uploads/meeting.jpg').srcSet
+                    require('~/assets/uploads/meeting.jpeg').srcSet
                   "
                 />
               </figure>
