@@ -1,5 +1,5 @@
 <template>
-  <form name="simpleContactForm" method="POST" data-netlify="true" id="simple-contact-form" class="contact-form">
+  <form name="ContactForm" method="POST" data-netlify="true" id="ContactForm" class="contact-form">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
