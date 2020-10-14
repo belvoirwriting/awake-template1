@@ -14,13 +14,13 @@
                 Hello!
               </p>
               <p class="subtitle">
-                This person was in the template. She's not a member of the group, not yet anyway.
+               That form doesn't work yet, but here's a nice picture
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/meeting.jpg').src"
                   :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
+                    require('~/assets/uploads/meeting.jpg').srcSet
                   "
                 />
               </figure>
