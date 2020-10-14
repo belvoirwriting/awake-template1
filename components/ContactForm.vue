@@ -1,5 +1,5 @@
 <template>
-  <form name="ContactForm" action="/form/success" method="post">
+  <form name="ContactForm" action="/form/success" method="post" netlify>
   <input type="hidden" name="ContactForm" value="ContactForm" />
     <!-- Name -->
     <div class="field">
