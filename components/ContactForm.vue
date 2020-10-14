@@ -1,3 +1,4 @@
+<template>
 <form name="ContactForm" method="POST" data-netlify="true" id="ContactForm" class="contact-form">
     <!-- Name -->
     <div class="field">
@@ -54,3 +55,4 @@
       </button>
     </div>
   </form>
+</template>
