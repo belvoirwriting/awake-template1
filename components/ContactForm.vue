@@ -1,5 +1,8 @@
 <template>
-  <form>
+  <form name="ContactForm"
+    method="post"
+    data-netlify="true"
+    data-netlify-honeypot="bot-field">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
