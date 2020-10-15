@@ -1,6 +1,5 @@
 <template>
-  <form name="ContactForm" action="ContactForm" method="post" netlify>
-  <input type="hidden" name="ContactForm" value="ContactForm" />
+  <form name="ContactForm">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
