@@ -8,7 +8,7 @@ date: 2020-10-16T23:00:00Z
 featureImage: "/uploads/Mark_Spruce.jpg"
 
 ---
-_Mark Spruce shares the story behind his debut novel_ [Dad in a Box](https://www.amazon.co.uk/Dad-Box-Mark-Spruce/dp/B08KGZZR79/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)_..._
+_Mark Spruce shares the story behind his debut novel_ [Dad in a Box](https://www.amazon.co.uk/Dad-Box-Mark-Spruce/dp/B08KGZZR79/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)_out now at [Amazon](https://www.amazon.co.uk/Dad-Box-Mark-Spruce/dp/B08KGZZR79/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)_
 
 Being part of the Belvoir writers’ group and hearing such great stories from other group members inspired me to really focus on finally writing my own novel. It took a long time for the subject for my story to clearly form but once it had then it began to fall into place quite quickly.
 
@@ -23,5 +23,7 @@ I think the main thing I have learned through the process is perseverance. Some 
 If you have a good idea then just keep plugging away one chapter at a time. Review, edit, re write and carry on. Eventually you get to the end!
 
 The book, _Dad in a Box_, is available to buy via [Amazon](https://www.amazon.co.uk/Dad-Box-Mark-Spruce/dp/B08KGZZR79/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) as a paperback or Kindle edition.
+
+![alt text](/uploads/Mark_Spruce.jpg "Mark Spruce and his debut novel - Dad in a Box")
 
 _Mark will present practical steps to publishing your own novel via Amazon at our next meeting on 10 November 2020. And, for a musical interlude, head over to Mark's_ [_YouTube_](https://www.youtube.com/channel/UCXah9yiUx8Iy63yAldSUkAg) _channel._ 
