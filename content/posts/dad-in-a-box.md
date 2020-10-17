@@ -1,10 +1,10 @@
 ---
 title: Dad in a Box
 subtitle: Debut novel from Mark Spruce
-category: []
+category: [Success]
 author: Vale of Belvoir Writing Group
 date: 2020-10-16T23:00:00Z
-featureImage: ''
+featureImage: 'uploads/dad_in_a_box_cover.JPG'
 
 ---
 _Mark Spruce shares the story behind his debut novel..._
