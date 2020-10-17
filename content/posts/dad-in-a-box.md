@@ -14,6 +14,8 @@ Being part of the Belvoir writers’ group and hearing such great stories from o
 
 Talking to male friends in their fifties and sixties I realised we all enjoyed relating stories from our youth. Some are funny, some are tragic but they have stayed with us all our lives. The common regret is many of us don’t think to find out about our parents’ stories until after they have passed away. What if we could have the opportunity to discover these stories after they had gone? This was the starting point for my novel.
 
+![alt text](/uploads/Mark_Spruce.jpg "Author photo: Mark Spruce - Dad in a Box")
+
 For many years I worked as a fundraising manager for the RNLI and would regularly hear both amusing and heroic stories from lifeboat crews. Over several years I came to reflect how these stories would become their children’s legacy as so many of them were properly recorded. I would hear friends tell me how they regretted not paying more attention to their own parents’ stories when they were younger and that now it was too late. I certainly knew this to be the case with my own father.
 
 The theme is both specific and common which hopefully gives the book its appeal.
