@@ -7,7 +7,7 @@
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="John Smith" />
+        <input class="input is-medium" type="text" name="name" placeholder="John Smith" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -19,7 +19,7 @@
       <div class="control has-icons-left">
         <input
           class="input is-medium"
-          type="email"
+          type="email" name="email"
           placeholder="you@email.com"
         />
         <span class="icon is-small is-left">
@@ -33,7 +33,7 @@
       <div class="control has-icons-left">
         <input
           class="input is-medium"
-          type="text"
+          type="text" name="subject"
           placeholder="Brief Summary"
         />
         <span class="icon is-small is-left">
