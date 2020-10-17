@@ -5,7 +5,7 @@ category:
 - Success
 author: Vale of Belvoir Writing Group
 date: 2020-10-16T23:00:00Z
-featureImage: "/uploads/dad_in_a_box_cover.jpg"
+featureImage: "/uploads/Mark_Spruce.jpg"
 
 ---
 _Mark Spruce shares the story behind his debut novel_ [Dad in a Box](https://www.amazon.co.uk/Dad-Box-Mark-Spruce/dp/B08KGZZR79/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)_..._
