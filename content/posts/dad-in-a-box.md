@@ -4,7 +4,7 @@ subtitle: Debut novel from Mark Spruce
 category: [Success]
 author: Vale of Belvoir Writing Group
 date: 2020-10-16T23:00:00Z
-featureImage: 'uploads/dad_in_a_box_cover.JPG'
+featureImage: "uploads/dad_in_a_box_cover.JPG"
 
 ---
 _Mark Spruce shares the story behind his debut novel..._
