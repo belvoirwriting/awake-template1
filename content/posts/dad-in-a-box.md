@@ -18,7 +18,7 @@ For many years I worked as a fundraising manager for the RNLI and would regularl
 
 The theme is both specific and common which hopefully gives the book its appeal.
 
-I think the main thing I have learned trough the process is perseverance. Some chapters were easier to write than others. Writing convincing dialogue can be really hard! Once it is finally finished though and you see it up there for sale on Amazon it really is a wonderful feeling of accomplishment. Nothing beats the feeling of first holding a physical copy of your book. Also reading positive reviews from readers is really gratifying.
+I think the main thing I have learned through the process is perseverance. Some chapters were easier to write than others. Writing convincing dialogue can be really hard! Once it is finally finished though and you see it up there for sale on Amazon it really is a wonderful feeling of accomplishment. Nothing beats the feeling of first holding a physical copy of your book. Also reading positive reviews from readers is really gratifying.
 
 If you have a good idea then just keep plugging away one chapter at a time. Review, edit, re write and carry on. Eventually you get to the end!
 
