@@ -8,7 +8,7 @@ date: 2020-10-16T23:00:00Z
 featureImage: "/uploads/Mark_Spruce.jpg"
 
 ---
-_Mark Spruce shares the story behind his debut novel_ [Dad in a Box](https://www.amazon.co.uk/Dad-Box-Mark-Spruce/dp/B08KGZZR79/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=),_out now at [Amazon](https://www.amazon.co.uk/Dad-Box-Mark-Spruce/dp/B08KGZZR79/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)._
+_Mark Spruce shares the story behind his debut novel_ [Dad in a Box](https://www.amazon.co.uk/Dad-Box-Mark-Spruce/dp/B08KGZZR79/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=),_ out now at [Amazon](https://www.amazon.co.uk/Dad-Box-Mark-Spruce/dp/B08KGZZR79/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)._
 
 Being part of the Belvoir writers’ group and hearing such great stories from other group members inspired me to really focus on finally writing my own novel. It took a long time for the subject for my story to clearly form but once it had then it began to fall into place quite quickly.
 
