@@ -2,7 +2,7 @@
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Contact Us"
-      subtitle="if you can find us"
+      subtitle="find out more"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -14,7 +14,7 @@
                 Hello!
               </p>
               <p class="subtitle">
-               That form doesn't work yet, but here's a nice picture
+              We're always happy to hear from new people and welcome them to our community of writers.
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
@@ -27,7 +27,7 @@
               <br />
               <div class="content">
                 <p>
-                  This form doesn't actually work yet, but you could just trying asking around and someone will be able to let you in to the next meeting.
+                 Use this form to get in touch, for an invitation to our next meeting or for more information about what we do.
                 </p>
               </div>
             </article>
