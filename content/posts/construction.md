@@ -8,9 +8,8 @@ date: 2020-11-15T00:00:00.000+00:00
 featureImage: "/uploads/Construction_cranes_sunset_world_bank_photo.jpg"
 
 ---
-Our theme for December 2020 is construction. Join us on 8 December 2020 at 8pm via Google Meet and bring along what you've built.
 
-Use the theme however you want
+Our theme for December 2020 is construction. Join us on 8 December 2020 at 8pm via Google Meet and bring along what you've built.
 
 What will you build?
 
