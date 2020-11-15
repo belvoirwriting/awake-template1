@@ -8,6 +8,9 @@ date: 2020-11-15T00:00:00.000+00:00
 featureImage: "/uploads/Construction_cranes_sunset_world_bank_photo.jpg"
 
 ---
+Do you create carefully crafted blueprints for your stories? Do you rely on the muse and a mug of builder's tea to get to the next chapter?
+
+A mug of builder's tea
 
 Our theme for December 2020 is construction. Join us on 8 December 2020 at 8pm via Google Meet and bring along what you've built.
 
