@@ -1,10 +1,10 @@
 ---
 title: A reliable source
 subtitle: January 2021 meeting theme
-category: []
+category: [Inspiration]
 author: Vale of Belvoir Writing Group
 date: 2020-12-09T00:00:00Z
-featureImage: ''
+featureImage: '/uploads/CL_Society_49_Whispering_francisco_osorio.jpg'
 
 ---
 _Celebs mixed up in the fake pretending scandal have blasted critics for ‘being critical’, a reliable source tells this paper. Boffins say we can expect more of this until at least January._
