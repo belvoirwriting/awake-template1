@@ -21,6 +21,7 @@ fields:
   name: featureImage
   label: featureImage
 pages:
+- content/posts/a-reliable-source.md
 - content/posts/construction.md
 - content/posts/dad-in-a-box.md
 - content/posts/forgotten-purchase.md
