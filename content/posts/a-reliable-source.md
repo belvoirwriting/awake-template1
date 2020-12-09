@@ -1,10 +1,11 @@
 ---
 title: A reliable source
 subtitle: January 2021 meeting theme
-category: [Inspiration]
+category:
+- Inspiration
 author: Vale of Belvoir Writing Group
-date: 2020-12-09T00:00:00Z
-featureImage: '/uploads/CL_Society_49_Whispering_francisco_osorio.jpg'
+date: 2020-12-09T00:00:00.000+00:00
+featureImage: "/uploads/CL_Society_49_Whispering_francisco_osorio.jpg"
 
 ---
 _Celebs mixed up in the fake pretending scandal have blasted critics for ‘being critical’, a reliable source tells this paper. Boffins say we can expect more of this until at least January._
@@ -16,3 +17,5 @@ Is your reliable source a close friend of the minister or a neighbour with binoc
 So many questions. If only there was someone or something dependable to provide an answer.
 
 Look out for the meeting link in your emails or get in touch via the contact form for more details.
+
+Image: ["CL Society 49: Whispering"](https://www.flickr.com/photos/30330906@N04/5943990307) by [francisco_osorio](https://www.flickr.com/photos/30330906@N04) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich).
