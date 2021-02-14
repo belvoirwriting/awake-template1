@@ -1,11 +1,10 @@
 ---
 title: Escape
 subtitle: March 2021 theme
-category:
-- Inspiration
+category: Inspiration
 author: Vale of Belvoir Writing Group
 date: 2021-02-14T00:00:00Z
-featureImage: ''
+featureImage: /uploads/bird&sky_rocketlass.jpg
 
 ---
 Fly as far as your imagination will take you with our March 2021 theme of escape. 
