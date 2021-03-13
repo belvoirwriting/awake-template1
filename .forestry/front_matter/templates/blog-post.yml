@@ -22,6 +22,7 @@ fields:
   label: featureImage
 pages:
 - content/posts/a-reliable-source.md
+- content/posts/chains.md
 - content/posts/construction.md
 - content/posts/dad-in-a-box.md
 - content/posts/day-s-journey.md
