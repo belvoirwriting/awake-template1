@@ -10,4 +10,4 @@ featureImage: "/12472399134_4b289cd98d_b.jpeg"
 ---
 Chains is an invitation to bring the next part of your work in progress.
 
-["Chained and Locked"](https://www.flickr.com/photos/55608722@N06/12472399134) by [Dusty J](https://www.flickr.com/photos/55608722@N06) is licensed under[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
+Image: ["Chained and Locked"](https://www.flickr.com/photos/55608722@N06/12472399134) by [Dusty J](https://www.flickr.com/photos/55608722@N06) is licensed under[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
