@@ -9,3 +9,5 @@ featureImage: "/c084d8b6-a894-4325-955a-23111783f75c.jpeg"
 
 ---
 Don’t ask...
+
+Image: ["Stuffed squirrels"](https://www.flickr.com/photos/59809888@N06/6321126946) by [South Australian History Network](https://www.flickr.com/photos/59809888@N06) is marked with [CC0 1.0](https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=rich)
