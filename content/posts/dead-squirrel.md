@@ -1,6 +1,6 @@
 ---
 title: Dead squirrel
-subtitle: " May 2021 meeting theme"
+subtitle: " May 2021 theme"
 category:
 - Inspiration
 author: Vale of Belvoir Writing Group
