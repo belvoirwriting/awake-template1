@@ -4,7 +4,7 @@ subtitle: What we’ve been doing
 category: Inspiration
 author: Vale of Belvoir Writing Group
 date: 2021-09-14T23:00:00Z
-featureImage: "uploads/IMG_0304.JPG"
+featureImage: "/uploads/img_0304.JPG"
 
 ---
 Sometimes the best advice is “just write”. And that’s what we’ve been doing. We’ve had a few themes that were not published here, _moths_ being one of them, but our main aims have been to keep writing and to keep meeting.
