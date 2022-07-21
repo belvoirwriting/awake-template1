@@ -18,7 +18,7 @@ and journalists.
 
           <h3>Inspiring meetings</h3>
           <p>
-         We meet on the second Tuesday of every month at St. Mary's Church in Bottesford, but have been using Google Meet during the current restrictions. There's an optional theme or prompt for each meeting to help kick start your next piece.
+         We meet on the second Tuesday of every month at St. Mary's Church in Bottesford, but have been using Google Meet since the pandemic started. There's an optional theme or prompt for each meeting to help kick start your next piece.
           </p>
           <h3>Variations on a theme</h3><p>
           We’ve had fun playing with the different themes, diverging from them in different ways or discarding them altogether to present works in progress. We've shared a variety of stories, poems, memoirs, novel chapters, blog posts and more. 
