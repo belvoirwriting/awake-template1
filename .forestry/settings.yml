@@ -6,10 +6,15 @@ webhook_url:
 sections:
 - type: directory
   path: pages
+  label: Pages2
+  create: all
+  match: "**/*"
+- type: directory
+  path: pages
   label: Pages
   create: all
   match: "**/*"
-  new_doc_ext: ".vue"
+  new_doc_ext: vue
 - type: directory
   path: content/posts
   label: Posts
