@@ -1,7 +1,8 @@
 ---
 title: Off the shelf
 subtitle: August 2022 theme
-category: []
+category:
+- Inspiration
 author: Vale of Belvoir Writing Group
 date: 2022-07-20T23:00:00Z
 featureImage: ''
