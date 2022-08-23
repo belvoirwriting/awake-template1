@@ -4,7 +4,7 @@ subtitle: September 2022 meeting theme
 category: []
 author: Vale of Belvoir Writing Group
 date: 2022-08-22T23:00:00Z
-featureImage: ''
+featureImage: "/uploads/pen_and_book.jpg"
 
 ---
 September's meeting carries on with our works in progress and the books that have been inspiring us. Look out for the Google Meet link in your inbox or use the contact page to join us on Tuesday 13 September 2022 at 8pm.
